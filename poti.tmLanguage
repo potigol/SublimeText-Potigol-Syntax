@@ -70,7 +70,7 @@
 			<key>comment</key>
 			<string>Palavras Chave</string>
 			<key>match</key>
-			<string>\b(se|entao|então|senao|senão|fim|enquanto|para|gere|senaose|senãose|ate|até|caso|escolha|faca|faça|tipo)\b</string>
+			<string>\b(se|entao|então|senao|senão|fim|enquanto|para|de|em|passo|gere|senaose|senãose|ate|até|caso|escolha|faca|faça|tipo)\b</string>
 			<key>name</key>
 			<string>keyword.control</string>
 		</dict>
@@ -78,7 +78,7 @@
 			<key>comment</key>
 			<string>Operadores</string>
 			<key>match</key>
-			<string>\b(nao|não|e|ou|mod|div)\b|(,|\.|=|==|\:=|&lt;=|&lt;&gt;|&lt;|&gt;=|=&gt;|&gt;|\+|\-|\*|\/|\(|\)|\:|\^|\[|\])</string>
+			<string>\b(nao|não|e|ou|mod|div|formato)\b|(,|\.|=|==|\:\:|\:=|&lt;=|&lt;&gt;|&lt;|&gt;=|=&gt;|&gt;|\+|\-|\*|\/|\(|\)|\:|\^|\[|\])</string>
 			<key>name</key>
 			<string>keyword.operator</string>
 		</dict>
