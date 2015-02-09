@@ -13,5 +13,4 @@ Potigol syntax highlighting for SublimeText
    - ctrl+shift+p
    - 'Add Package'
    - 'Potigol'
-   - 
  - Feche o SublimeText e abra novamente
