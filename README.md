@@ -3,7 +3,7 @@
 Potigol syntax highlighting for SublimeText
 
 ## Instalação
- - Faça o download do SublieText http://www.sublietext.com
+ - Faça o download do SublimeText: http://www.sublimetext.com
  - Instale o plugin Package Control https://packagecontrol.io/installation
  - Adicione o repositório do plugin do Potigol:
    - ctrl+shift+p
